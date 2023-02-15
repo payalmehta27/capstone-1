@@ -1,0 +1,25 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Jully, programming, write a code and debugging it, 12 Dec 2022, 25 Jan 2023, NO
+billy, datascientist, work at server side, 20 Dec 2022, 10 Jan 2023, NO
+alex, dataengineer, server and data cleaning, 12 Dec 2022, 25 Feb 2023, NO
+alex, projectLead, assign a task to all team of task_manager.py, 12 Dec 2022, 25 Feb 2023, NO
+alex, Assign initial tasks, Use taskManager.py to assign each team member, 12 Dec 2022, 25 Feb 2023, NO
+jack, coding,write codes, 11 Nov 2022, 12 Feb 2023, NO
+ketan, project manger, handling the project, 25 Dec 2022, 10 Jan 2023, NO
+ketan, projectLead, assign a task to all team of task_manager.py, 25 Dec 2022, 10 Jan 2023, NO
+ketan, Assign initial tasks, Use taskManager.py to assign each team member, 25 Dec 2022, 10 Jan 2023, NO
+jack, testing,verifying *.py, 11 Nov 2022, 12 Feb 2023, NO
+Jully, testing, testing a task_manager.py assign file, 12 Dec 2022, 25 Jan 2023, NO
+Jully, Assign initial tasks, Use taskManager.py to assign each team member, 12 Dec 2022, 25 Jan 2023, NO
+leo, testing, testing a task_manager.py assign file and verify the data in tasks.txt, 12 Sep 2022, 07 Mar 2023, NO
+sid, testing, testing the user.py and tasks.py after that verify their data in corresponded user.txt and tasks.txt file and then submitting their report, 15 Oct 2022, 07 Jan 2023, NO
+bob,  Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2022, 05 Dec 2023, NO
+den, testing, verifying *.py and reporting to TeamLead, 30 Dec 2022, 02 Dec 2023, NO
+Harry, projectLead, assign a task to all team of task_manager.py, 01 Jan 2023, 22 jan 2023, NO
+Gill, TeamLead, managing the task_manager.py's team, 20 Dec 2022, 04 jan 2023, NO
+billy, Decorating the project, Decorating the project and reporting to head, 30 Dec 2022, 02 Jan 2023, NO
+den, Decorating the project, Decorating the project and reporting to head, 30 Dec 2022, 02 Dec 2023, NO
+jess, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 30 Dec 2022, 22 Jan 2023, NO
+Harry, dataengineer, server and data cleaning, 01 Jan 2023, 22 jan 2023, NO
+bob,  Decorating the project, Decorating the project and reporting to head, 10 Oct 2022, 05 Dec 2023, YES
